@@ -1,0 +1,12 @@
+{
+  "name": "web-communications-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:jammaloo/web-communications-demo.git",
+  "author": "James Freeman <james.freeman@worktango.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
