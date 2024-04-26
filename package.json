@@ -1,0 +1,13 @@
+{
+  "name": "web-communications-demo",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jammaloo/web-communications-demo.git",
+  "author": "James Freeman <james.freeman@worktango.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
+  }
+}
